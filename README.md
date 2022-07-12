@@ -2,7 +2,7 @@
 
 :zap:感谢[**莫那鲁道**](http://thinkinjava.cn/)
 
- 分布式kv存储项目思路来源于[编写你的第一个 Java 版 Raft 分布式 KV 存储 ](https://www.cnblogs.com/stateis0/p/10259339.html)
+ 分布式kv存储项目来源于[编写你的第一个 Java 版 Raft 分布式 KV 存储 ](https://www.cnblogs.com/stateis0/p/10259339.html)
 
 ## 前言
 
